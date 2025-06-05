@@ -1,0 +1,45 @@
+.bg1{
+    background-image: url(src/img/bg1.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+}
+.bg5{
+    background-image: url(src/img/i4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.icon{
+    font-size: 40px;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+.sec1{
+    margin-top: -300px;
+}
+.sec_1{
+    background-color: #1089FF;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+body{
+    overflow-x: hidden;
+}
+.b1{
+    background-color:#1089FF;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+.b2{
+    background-color:#01D28E;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
